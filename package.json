@@ -7,7 +7,7 @@
     "vscode": "^1.68.0"
   },
   "publisher": "yu",
-  "repository": "https://dev.azure.com/14395521190676/vscode-plugin-demo",
+  "repository": "https://github.com/huiguangyu/vscode-plugin-demo",
   "categories": [
     "Other"
   ],
