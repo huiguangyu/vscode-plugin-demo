@@ -1,0 +1,8 @@
+{
+  "print hello world": {
+    "scope": "javascript,typescript,javascriptreact,typescriptreact",
+    "prefix": "hello",
+    "description": "快速logo",
+    "body": "$BLOCK_COMMENT_START Hello World $BLOCK_COMMENT_END"
+  }
+}
